@@ -1,0 +1,3 @@
+A Simple Spring Rest Application and it's configuration by using xml file:
+Programs:
+* ApplicationController.java
